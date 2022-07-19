@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevitAntu
 - 👀 I’m interested in programing and social media content creation
-- 📫 How to reach me wobalemson@gmail.com
+- 📫 How to reach me ezoplandness@gmail.com
 
 <!---
 DevitAntu/DevitAntu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
